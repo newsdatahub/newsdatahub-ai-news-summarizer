@@ -37,7 +37,7 @@ Build an AI-powered pipeline that fetches news articles and generates concise, h
 
 - Python 3.7+
 - OpenAI API key ([get one here](https://platform.openai.com/api-keys))
-- NewsDataHub API key ([get one here](https://newsdatahub.com/login)) — **Optional:** uses sample data if not provided
+- NewsDataHub API key ([get one here](https://newsdatahub.com/login?utm_source=github&utm_campaign=newsdatahub-ai-news-summarizer)) — **Optional:** uses sample data if not provided
 
 ### Installation
 
@@ -198,8 +198,8 @@ params = {"per_page": 100, "country": "FR,DE,ES"}
 
 ## ![Resources](https://img.shields.io/badge/📚-Resources-blue?style=flat-square)
 
-- [Full Tutorial](https://newsdatahub.com/learning-center/article/ai-summarization-pipeline) — Step-by-step guide
-- [NewsDataHub API Docs](https://newsdatahub.com/docs)
+- [Full Tutorial](https://newsdatahub.com/learning-center/article/ai-summarization-pipeline?utm_source=github&utm_campaign=newsdatahub-ai-news-summarizer) — Step-by-step guide
+- [NewsDataHub API Docs](https://newsdatahub.com/docs?utm_source=github&utm_campaign=newsdatahub-ai-news-summarizer)
 - [OpenAI API Docs](https://platform.openai.com/docs)
 - [GitHub Issues](https://github.com/newsdatahub/newsdatahub-ai-news-summarizer/issues) — Report bugs
 
